@@ -8,6 +8,7 @@
 		<version>3.0.0-M4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
 	<groupId>br.com.alura</groupId>
 	<artifactId>linguagens-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
